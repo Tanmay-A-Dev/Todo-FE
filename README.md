@@ -5,13 +5,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+
+npm install
+and 
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -20,7 +18,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Learn More![Screenshot from 2025-01-21 14-59-36](https://github.com/user-attachments/assets/db5ec83f-cca1-496e-97f7-93788ae946a2)![Screenshot from 2025-01-21 14-59-39](https://github.com/user-attachments/assets/e7db2fec-4c01-4b27-8ae1-2ca43765d2b7)
+
+
 
 To learn more about Next.js, take a look at the following resources:
 
